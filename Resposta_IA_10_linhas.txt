@@ -1,0 +1,10 @@
+Proporia uma fila de alertas integrada a uma rotina autorizada de exportação de dados do Projuris.
+O sistema consultaria apenas os campos necessários de processos, tarefas, responsáveis, situações e prazos.
+Uma regra inicial cruzaria as comunicações com tarefas pelo identificador do processo e pelo tipo de atividade.
+Alertas seriam gerados para comunicações novas sem tarefa compatível, tarefas com prazo interno vencido e situações que exigem confirmação.
+Registros repetidos e movimentos apenas informativos seriam agrupados ou tratados separadamente.
+Cada alerta mostraria o motivo, a data, o responsável sugerido e os registros que sustentam a indicação.
+A IA poderia ajudar a classificar descrições variadas, mas não decidiria providências jurídicas.
+A equipe da Controladoria validaria os alertas e poderia marcar falso positivo para melhorar as regras.
+O acesso seria restrito por perfil, com registro de consultas e minimização dos dados.
+Nenhuma informação seria enviada a serviços externos de IA sem autorização e controles de privacidade.
