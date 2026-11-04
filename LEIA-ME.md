@@ -1,4 +1,4 @@
-# Conferência de comunicações e tarefas — Desafio de Estágio em TI
+# Conferência de comunicações e tarefas — Desafio em TI
 
 ## O que é
 Protótipo em Python + Streamlit para relacionar um relatório de tarefas e um relatório de comunicações processuais fictícias, destacar situações para conferência humana e exportar resultados para Excel.
