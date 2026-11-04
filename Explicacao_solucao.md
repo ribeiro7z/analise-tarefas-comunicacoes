@@ -1,4 +1,4 @@
-# Explicação da solução — Desafio de Estágio em TI
+# Explicação da solução — Desafio em TI
 
 **Ferramentas utilizadas:** Python, Streamlit, pandas e openpyxl. O Python realiza a leitura e análise dos dados; o Streamlit oferece uma interface simples para carregar os relatórios, visualizar alertas e exportar os resultados em Excel.
 
